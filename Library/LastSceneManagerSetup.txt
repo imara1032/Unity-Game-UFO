@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Seans/Main_sean.unity
+  isLoaded: 1
+  isActive: 1
